@@ -54,11 +54,13 @@ Projeto full stack inspirado na avaliação SAEP 2023, com o objetivo de simular
 
 ## Capturas de Tela
 
+<img width="775" height="912" alt="Captura de tela 2025-11-10 110152" src="https://github.com/user-attachments/assets/3d0dc375-7cce-40d0-9c0f-1e6f09735e29" />
+
 ### Página Inicial
 
 ![Página Inicial](./docs/screenshot01.png)
 
 > O desenvolvimento das demais funcionalidades deverá ser continuado conforme as instruções da **Aula de Projeto de Software**.
 
-**Autor:** Gabriel Barbosa Zanon
-**GitHub:** [GabrielBZanon](https://github.com/GabrielBZanon)
+**Autor:** Heloísa Bordini Mendonça
+
