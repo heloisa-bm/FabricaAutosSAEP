@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Fábrica de Automóveis SAEP 2025</title>
+  </head>
+  <body>
+    <header><h1></h1></header>
+    <main></main>
+
+    <div id="modal-area" class="modal">
+      <div class="modal-content">
+        <span class="close" id="fecharArea">&times;</span>
+        <h2 id="tituloArea"></h2>
+        <div id="listaAutomoveis"></div>
+      </div>
+    </div>
+
+    <div id="modal-venda" class="modal">
+      <div class="modal-content">
+        <span class="close" id="fecharVenda">&times;</span>
+        <h2 id="tituloVenda"></h2>
+
+        <label for="cliente">Cliente:</label>
+        <select id="cliente"></select>
+
+        <label for="concessionaria">Concessionária:</label>
+        <select id="concessionaria"></select>
+
+        <button id="confirmarVenda" disabled>Confirmar</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
